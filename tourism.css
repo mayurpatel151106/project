@@ -1,5 +1,12 @@
-.h-center{
-    text-align: center; 
-    size: 20px;
-    color: red
+.card{
+    background-color: lightblue;
+    text-align: center;
+}
+
+.main-heading{
+    color: blue;
+}
+
+.paragraph{
+    color: grey
 }
